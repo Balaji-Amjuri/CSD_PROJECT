@@ -3,20 +3,20 @@ World Bank Development Indicator Analysis using Tableau for Energy Sector
 
 
 **Steps to be Followed :**<br>
-Firstly created a folder Named Project<br>
+Firstly create a folder Named Project<br>
 Open that folder in cmd<br>
 next we need to install virtualenvironment <br>
 **Command to install VirtualEnvironment :** pip install virtualenv<br>
 **Next we need to create a virtual environment command :**  virtualenv virtualenvironment_name<br>
 After the creating of the virtualenvironment we need to activate it by:<br>
   command: virtualenvironment_name\scripts\activate<br>
-After that installed Flask:<br>
+After that we need to install Flask:<br>
 command : pip install Flask<br>
-After that created a file name app.py (Python file)<br>
-I created a folder called (Templates). Here we can find all finds of html files related to page<br>
-After that, for desiging i created a folder called static there we can find all the css stuff and all.<br>
+After that create a file name app.py (Python file)<br>
+create a folder called (Templates); Here we need to dump all the HTML files related to Application.<br>
+After that, for desiging; created a folder called static there we can find all the css stuff and all.<br>
 
-**ScreenShoots**<br>
+**ScreenShots**<br>
 ![image](https://github.com/Balaji-Amjuri/CSD_PROJECT/assets/123747262/436bbf0e-56b2-498c-ba69-ea946646971c)
 ![image](https://github.com/Balaji-Amjuri/CSD_PROJECT/assets/123747262/eb9c1fcf-ab39-4b54-b3bb-fdfc16abffb3)
 ![image](https://github.com/Balaji-Amjuri/CSD_PROJECT/assets/123747262/1e0057c0-0bed-4762-b074-0cc5dddd306d)
