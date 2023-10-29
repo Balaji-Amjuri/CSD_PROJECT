@@ -16,6 +16,10 @@ After that create a file name app.py (Python file)<br>
 create a folder called (Templates); Here we need to dump all the HTML files related to Application.<br>
 After that, for desiging; created a folder called static there we can find all the css stuff and all.<br>
 
+**To Run this File**
+1. we need to activate virtualEnvironment
+2. next run the app.py file
+
 **ScreenShots**<br>
 ![image](https://github.com/Balaji-Amjuri/CSD_PROJECT/assets/123747262/436bbf0e-56b2-498c-ba69-ea946646971c)
 ![image](https://github.com/Balaji-Amjuri/CSD_PROJECT/assets/123747262/eb9c1fcf-ab39-4b54-b3bb-fdfc16abffb3)
