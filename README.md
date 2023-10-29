@@ -2,7 +2,7 @@
 World Bank Development Indicator Analysis using Tableau for Energy Sector
 
 
-**Steps to be Followed :**
+**Steps to be Followed :**<br>
 Firstly created a folder Named Project<br>
 Open that folder in cmd<br>
 next we need to install virtualenvironment <br>
